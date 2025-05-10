@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"hotel"},{"l":"hotel.polecenia"},{"l":"niestandardowe"}];updateSearchResults();

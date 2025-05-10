@@ -1,0 +1,1 @@
+Po uruchomieniu Main program poprosi o podanie nazwy hotelu do wczytania (pominięte użyje domyślnej nazwy "hotel") a następnie poda listę dostępnych poleceń oraz ich opisy. Argumenty poleceń należy podawać gdy program o nie poprosi, nie od razu.
